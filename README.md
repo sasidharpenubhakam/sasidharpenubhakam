@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I'm Sasidhar P<br><br>I’m a Full Stack Developer passionate about building scalable web and mobile applications. I enjoy solving real-world problems, debugging challenging issues, and continuously learning new technologies.<br><br>🌱 I’m currently learning Artificial Intelligence (AI)<br><br>💬 Ask me about MERN Stack, scalable backend systems, AI concepts, AWS integration<br><br>📫 How to reach me: sasidharpenubhakam@gmail.com
 
 
